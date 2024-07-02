@@ -1,54 +1,54 @@
 {
     "tasks": [ 
         { 
-            "nome": "Fare la spesa", 
-            "descrizione": "Acquistare frutta, verdura e prodotti essenziali al supermercato", 
-            "completato": true 
+            "name": "Fare la spesa", 
+            "description": "Acquistare frutta, verdura e prodotti essenziali al supermercato", 
+            "completed": true 
         }, 
         { 
-            "nome": "Pulire la casa", 
-            "descrizione": "Passare l'aspirapolvere, pulire i pavimenti e riordinare gli ambienti", 
-            "completato": false 
+            "name": "Pulire la casa", 
+            "description": "Passare l'aspirapolvere, pulire i pavimenti e riordinare gli ambienti", 
+            "completed": false 
         }, 
         { 
-            "nome": "Fare una passeggiata", 
-            "descrizione": "Svolgere un'attività fisica leggera per rilassarsi e tenersi in forma", 
-            "completato": true 
+            "name": "Fare una passeggiata", 
+            "description": "Svolgere un'attività fisica leggera per rilassarsi e tenersi in forma", 
+            "completed": true 
         }, 
         { 
-            "nome": "Leggere un libro", 
-            "descrizione": "Dedica del tempo alla lettura per arricchire la mente e rilassarsi", 
-            "completato": false 
+            "name": "Leggere un libro", 
+            "description": "Dedica del tempo alla lettura per arricchire la mente e rilassarsi", 
+            "completed": false 
         }, 
         { 
-            "nome": "Preparare la cena", 
-            "descrizione": "Cucinare un pasto gustoso per se stessi o per la famiglia", 
-            "completato": true 
+            "name": "Preparare la cena", 
+            "description": "Cucinare un pasto gustoso per se stessi o per la famiglia", 
+            "completed": true 
         }, 
         { 
-            "nome": "Guardare un film", 
-            "descrizione": "Rilassarsi sul divano e godersi un film o una serie TV", 
-            "completato": true 
+            "name": "Guardare un film", 
+            "description": "Rilassarsi sul divano e godersi un film o una serie TV", 
+            "completed": true 
         }, 
         { 
-            "nome": "Scrivere una lettera", 
-            "descrizione": "Esprimere i propri pensieri e sentimenti su carta per una persona cara", 
-            "completato": false 
+            "name": "Scrivere una lettera", 
+            "description": "Esprimere i propri pensieri e sentimenti su carta per una persona cara", 
+            "completed": false 
         }, 
         { 
-            "nome": "Organizzare l'armadio", 
-            "descrizione": "Riordinare i vestiti e liberare spazio nell'armadio", 
-            "completato": false 
+            "name": "Organizzare l'armadio", 
+            "description": "Riordinare i vestiti e liberare spazio nell'armadio", 
+            "completed": false 
         }, 
         { 
-            "nome": "Fare yoga", 
-            "descrizione": "Praticare degli esercizi di yoga per rilassarsi e migliorare la flessibilità", 
-            "completato": true 
+            "name": "Fare yoga", 
+            "description": "Praticare degli esercizi di yoga per rilassarsi e migliorare la flessibilità", 
+            "completed": true 
         }, 
         { 
-            "nome": "Pianificare la prossima vacanza", 
-            "descrizione": "Organizzare un viaggio o una breve vacanza per il futuro", 
-            "completato": false 
+            "name": "Pianificare la prossima vacanza", 
+            "description": "Organizzare un viaggio o una breve vacanza per il futuro", 
+            "completed": false 
         } 
         ] 
 }
