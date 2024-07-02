@@ -32,7 +32,7 @@
                     <section class="user-input">
                         <div id="task-name">
                             <label for=""></label>
-                            <input type="text" class="input-group" @keyup.enter="addTask(newTaskName)" v-model="newTaskName">
+                            <input type="text" class="input-group" @keyup.enter="addTask(newTaskName)" v-model.trim="newTaskName">
                         </div>
                         <div id="task-description">
                             <label for=""></label>
